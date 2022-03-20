@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640965243934",
+    "project_id": "react-native-crud-d24e8",
+    "storage_bucket": "react-native-crud-d24e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640965243934:android:4c6b764cbda38a49522a0f",
+        "android_client_info": {
+          "package_name": "com.reactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640965243934-2q7g3avg07l2php3jjos8pj9d3u9k9sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9bShRzNHXL7vUC1FvK3_0mBW8fSx0kd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640965243934-2q7g3avg07l2php3jjos8pj9d3u9k9sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
